@@ -1,0 +1,25 @@
+{
+ "theme_color": "#FFFFFF",
+ "name": "360° Tour | Beaconside House",
+ "description": "Interactive 360 degree tour of Beaconside House wedding and party venue in Devon.",
+ "icons": [
+  {
+   "src": "icons/icon512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon64.png",
+   "sizes": "64x64",
+   "type": "image/png"
+  }
+ ],
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
+}
